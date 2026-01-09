@@ -1,10 +1,6 @@
-# Food Delivery Website (Practice Project)
+# Food Delivery Website
 
 A responsive food delivery website built as a practice project to learn HTML, CSS, and especially media queries. This repository contains the source HTML and CSS used to build the site and demonstrates responsive layout, visual styling, and semantic structure for a simple food-ordering landing page.
-
-Original notes
---------------
-I created this food delivery website to practice and better understand media queries in HTML and CSS. The screenshots below show the pages and responsive layouts.
 
 Screenshots
 -----------
@@ -65,14 +61,6 @@ Notes and next steps
 Contributing
 ------------
 This is a personal practice repository. Contributions are welcome — open an issue or submit a pull request with improvements or suggestions.
-
-License
--------
-This project is provided for learning purposes. Add an open-source license (for example, MIT) if you plan to reuse or share the code widely.
-
-Author
-------
-sunilpy-dev
 
 Contact
 -------
